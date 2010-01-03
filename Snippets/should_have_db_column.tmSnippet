@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_have_db_column :${1:title}${2:, :type =&gt; "${3:string}", :limit =&gt; ${4:255}}</string>
+	<key>name</key>
+	<string>should_have_db_column</string>
+	<key>scope</key>
+	<string>meta.rails.unit_test</string>
+	<key>tabTrigger</key>
+	<string>shdc</string>
+	<key>uuid</key>
+	<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+</dict>
+</plist>

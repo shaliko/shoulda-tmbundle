@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_have_db_indeces :${1:object_id}</string>
+	<key>name</key>
+	<string>should_have_db_indeces</string>
+	<key>scope</key>
+	<string>meta.rails.unit_test</string>
+	<key>tabTrigger</key>
+	<string>shdi</string>
+	<key>uuid</key>
+	<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
+</dict>
+</plist>

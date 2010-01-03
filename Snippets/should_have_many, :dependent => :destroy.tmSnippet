@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_have_many :${1:object}s, :dependent =&gt; :destroy$0</string>
+	<key>name</key>
+	<string>should_have_many, :dependent =&gt; :destroy</string>
+	<key>scope</key>
+	<string>meta.rails.unit_test</string>
+	<key>tabTrigger</key>
+	<string>shmd</string>
+	<key>uuid</key>
+	<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
+</dict>
+</plist>
