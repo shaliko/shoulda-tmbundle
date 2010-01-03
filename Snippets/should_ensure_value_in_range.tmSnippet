@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_db_column :${1:title}${2:, :type =&gt; "${3:string}", :limit =&gt; ${4:255}}$0</string>
+	<string>should_ensure_value_in_range :${1:attribute}, (${2:0..100})$0</string>
 	<key>name</key>
-	<string>should_have_db_column</string>
+	<string>should_ensure_value_in_range</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>shdc</string>
+	<string>sevir</string>
 	<key>uuid</key>
-	<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+	<string>A5DE0448-0130-44F6-8BFC-6EF006384579</string>
 </dict>
 </plist>

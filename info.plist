@@ -2,8 +2,79 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>447EBC39-01AE-4B9D-810A-8BC6C32C956B</string>
+					<string>A5DE0448-0130-44F6-8BFC-6EF006384579</string>
+					<string>3C497708-3789-409B-9139-28C07E1540CF</string>
+					<string>B7831D1B-DBC8-4149-9517-A6A6E80401B5</string>
+					<string>85943A54-D82F-43E2-AA58-52BE8CEFE901</string>
+					<string>15EED8BA-D497-48DC-B1EA-5DE7E8447559</string>
+					<string>3D6ADA00-8123-460B-B2E7-EE47CFB41145</string>
+					<string>9AD4F095-F162-40F1-96A6-13B72419C262</string>
+					<string>D7BD7875-2702-49D6-970D-3359E224E825</string>
+					<string>38ABA0D9-944C-4C1E-9489-4F035064A053</string>
+					<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+					<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
+					<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
+					<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
+					<string>E567C31A-D329-4652-8A03-39E03B59ABAE</string>
+					<string>5BF2935B-35C5-43F0-AC05-1F2E1FFBCF99</string>
+					<string>3794FB8A-FD1C-4238-A6AD-6BE8106D70BF</string>
+					<string>07EADEF0-B5F6-4B7B-A58C-B4BB03081ABC</string>
+					<string>788BA855-7A3D-4878-94DA-BA419839121F</string>
+					<string>81739409-73DF-4BBA-B3FF-12AA201DB419</string>
+					<string>8107B038-A448-43D3-822D-83D4FC702350</string>
+					<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
+					<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
+					<string>BE0C2AE6-2342-4200-8894-C08BF747DFB2</string>
+					<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
+				</array>
+				<key>name</key>
+				<string>ActiveRecord::Macros</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Shoulda</string>
+	<key>ordering</key>
+	<array>
+		<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
+		<string>3D6ADA00-8123-460B-B2E7-EE47CFB41145</string>
+		<string>38ABA0D9-944C-4C1E-9489-4F035064A053</string>
+		<string>15EED8BA-D497-48DC-B1EA-5DE7E8447559</string>
+		<string>85943A54-D82F-43E2-AA58-52BE8CEFE901</string>
+		<string>B7831D1B-DBC8-4149-9517-A6A6E80401B5</string>
+		<string>A5DE0448-0130-44F6-8BFC-6EF006384579</string>
+		<string>D7BD7875-2702-49D6-970D-3359E224E825</string>
+		<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+		<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
+		<string>E567C31A-D329-4652-8A03-39E03B59ABAE</string>
+		<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
+		<string>BE0C2AE6-2342-4200-8894-C08BF747DFB2</string>
+		<string>3C497708-3789-409B-9139-28C07E1540CF</string>
+		<string>447EBC39-01AE-4B9D-810A-8BC6C32C956B</string>
+		<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
+		<string>07EADEF0-B5F6-4B7B-A58C-B4BB03081ABC</string>
+		<string>5BF2935B-35C5-43F0-AC05-1F2E1FFBCF99</string>
+		<string>788BA855-7A3D-4878-94DA-BA419839121F</string>
+		<string>9AD4F095-F162-40F1-96A6-13B72419C262</string>
+		<string>3794FB8A-FD1C-4238-A6AD-6BE8106D70BF</string>
+		<string>8107B038-A448-43D3-822D-83D4FC702350</string>
+		<string>81739409-73DF-4BBA-B3FF-12AA201DB419</string>
+		<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
+		<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
+	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>
 </dict>

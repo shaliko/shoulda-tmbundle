@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_db_column :${1:title}${2:, :type =&gt; "${3:string}", :limit =&gt; ${4:255}}$0</string>
+	<string>should_have_readonly_attributes :${1:password}$0</string>
 	<key>name</key>
-	<string>should_have_db_column</string>
+	<string>should_have_readonly_attributes</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>shdc</string>
+	<string>shra</string>
 	<key>uuid</key>
-	<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+	<string>788BA855-7A3D-4878-94DA-BA419839121F</string>
 </dict>
 </plist>
