@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>should_assign_to :${1:user}${2:, :class_name =&gt; "${3:${1/[[:alpha:]]+|(_)/(?1::\u$0)/g}}"}</string>
+	<key>name</key>
+	<string>should_assign_to</string>
+	<key>scope</key>
+	<string>meta.rails.functional_test</string>
+	<key>tabTrigger</key>
+	<string>sat</string>
+	<key>uuid</key>
+	<string>163BF8ED-67C3-449B-9DD6-070F34F48C3A</string>
+</dict>
+</plist>

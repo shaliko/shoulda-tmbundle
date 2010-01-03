@@ -6,10 +6,18 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
 			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>65469E83-A35F-4D2E-83E4-A5305190972E</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Shoulda::ActionController::Macros</string>
+			</dict>
 			<key>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</key>
 			<dict>
 				<key>items</key>
@@ -41,7 +49,7 @@
 					<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
 				</array>
 				<key>name</key>
-				<string>ActiveRecord::Macros</string>
+				<string>Shoulda::ActiveRecord::Macros</string>
 			</dict>
 		</dict>
 	</dict>
@@ -74,6 +82,8 @@
 		<string>81739409-73DF-4BBA-B3FF-12AA201DB419</string>
 		<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
 		<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
+		<string>163BF8ED-67C3-449B-9DD6-070F34F48C3A</string>
+		<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
 	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>
