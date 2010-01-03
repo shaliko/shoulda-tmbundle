@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_filter_params :${1:password}</string>
+	<string>should_set_session(:${1:user_id}) { ${2:@user.id} }</string>
 	<key>name</key>
-	<string>should_filter_params</string>
+	<string>should_set_session</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>sfp</string>
+	<string>sss</string>
 	<key>uuid</key>
-	<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+	<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
 </dict>
 </plist>

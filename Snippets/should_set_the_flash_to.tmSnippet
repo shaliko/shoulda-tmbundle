@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_filter_params :${1:password}</string>
+	<string>should_set_the_flash_to /${1:created}/i</string>
 	<key>name</key>
-	<string>should_filter_params</string>
+	<string>should_set_the_flash_to</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>sfp</string>
+	<string>sstft</string>
 	<key>uuid</key>
-	<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+	<string>79FD270A-8705-42D2-970F-016199E9E965</string>
 </dict>
 </plist>

@@ -6,6 +6,7 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>CEAA7C48-5FE9-4451-BFA5-6C0DF8B4B149</string>
 			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
 			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
 		</array>
@@ -14,7 +15,21 @@
 			<key>65469E83-A35F-4D2E-83E4-A5305190972E</key>
 			<dict>
 				<key>items</key>
-				<array/>
+				<array>
+					<string>163BF8ED-67C3-449B-9DD6-070F34F48C3A</string>
+					<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+					<string>6B75A38F-8974-4D5F-B160-A6B48115234A</string>
+					<string>F1B4B5F0-CB2A-4B3D-BAE4-00304C4E30AC</string>
+					<string>9B06DDE0-0EE6-423C-8376-A6AA26DDA221</string>
+					<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
+					<string>DED4EDE3-B588-4581-ADF4-AF9F5A454A66</string>
+					<string>2C29AF67-2B45-4DED-BAB9-E16DE40B84D9</string>
+					<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
+					<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
+					<string>1AA0999C-4EDE-4CB2-84AB-13AF760A9739</string>
+					<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
+					<string>79FD270A-8705-42D2-970F-016199E9E965</string>
+				</array>
 				<key>name</key>
 				<string>Shoulda::ActionController::Macros</string>
 			</dict>
@@ -51,6 +66,13 @@
 				<key>name</key>
 				<string>Shoulda::ActiveRecord::Macros</string>
 			</dict>
+			<key>CEAA7C48-5FE9-4451-BFA5-6C0DF8B4B149</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Shoulda::ActionView::Macros</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -84,6 +106,17 @@
 		<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
 		<string>163BF8ED-67C3-449B-9DD6-070F34F48C3A</string>
 		<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+		<string>6B75A38F-8974-4D5F-B160-A6B48115234A</string>
+		<string>F1B4B5F0-CB2A-4B3D-BAE4-00304C4E30AC</string>
+		<string>9B06DDE0-0EE6-423C-8376-A6AA26DDA221</string>
+		<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
+		<string>DED4EDE3-B588-4581-ADF4-AF9F5A454A66</string>
+		<string>2C29AF67-2B45-4DED-BAB9-E16DE40B84D9</string>
+		<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
+		<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
+		<string>1AA0999C-4EDE-4CB2-84AB-13AF760A9739</string>
+		<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
+		<string>79FD270A-8705-42D2-970F-016199E9E965</string>
 	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>

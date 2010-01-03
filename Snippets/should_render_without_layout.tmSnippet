@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_filter_params :${1:password}</string>
+	<string>should_render_without_layout</string>
 	<key>name</key>
-	<string>should_filter_params</string>
+	<string>should_render_without_layout</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>sfp</string>
+	<string>srwl</string>
 	<key>uuid</key>
-	<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+	<string>2C29AF67-2B45-4DED-BAB9-E16DE40B84D9</string>
 </dict>
 </plist>

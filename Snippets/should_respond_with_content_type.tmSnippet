@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_filter_params :${1:password}</string>
+	<string>should_respond_with_content_type :${1:rss}</string>
 	<key>name</key>
-	<string>should_filter_params</string>
+	<string>should_respond_with_content_type</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>sfp</string>
+	<string>srwct</string>
 	<key>uuid</key>
-	<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
+	<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
 </dict>
 </plist>
