@@ -1,6 +1,6 @@
 # Shoulda TextMate bundle
 
-
+The Shoulda[http://github.com/thoughtbot/shoulda] gem makes it easy to write elegant, understandable, and maintainable Ruby tests.
 
 To install with Git:
 
