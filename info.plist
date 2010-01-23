@@ -6,12 +6,23 @@
 	<dict>
 		<key>items</key>
 		<array>
-			<string>CEAA7C48-5FE9-4451-BFA5-6C0DF8B4B149</string>
 			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
 			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
+			<string>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F33E9993-7ABC-4527-8CF9-FDDC356736E7</string>
+					<string>6AD96C5E-5249-4CF0-A7B1-162365DFC557</string>
+					<string>117977A4-2E95-4847-88CC-30CA2DBA2665</string>
+				</array>
+				<key>name</key>
+				<string>Shoulda::Macros</string>
+			</dict>
 			<key>65469E83-A35F-4D2E-83E4-A5305190972E</key>
 			<dict>
 				<key>items</key>
@@ -49,29 +60,22 @@
 					<string>38ABA0D9-944C-4C1E-9489-4F035064A053</string>
 					<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
 					<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
-					<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
-					<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
+					<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
 					<string>E567C31A-D329-4652-8A03-39E03B59ABAE</string>
+					<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
+					<string>07EADEF0-B5F6-4B7B-A58C-B4BB03081ABC</string>
+					<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
 					<string>5BF2935B-35C5-43F0-AC05-1F2E1FFBCF99</string>
 					<string>3794FB8A-FD1C-4238-A6AD-6BE8106D70BF</string>
-					<string>07EADEF0-B5F6-4B7B-A58C-B4BB03081ABC</string>
 					<string>788BA855-7A3D-4878-94DA-BA419839121F</string>
 					<string>81739409-73DF-4BBA-B3FF-12AA201DB419</string>
 					<string>8107B038-A448-43D3-822D-83D4FC702350</string>
 					<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
 					<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
 					<string>BE0C2AE6-2342-4200-8894-C08BF747DFB2</string>
-					<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
 				</array>
 				<key>name</key>
 				<string>Shoulda::ActiveRecord::Macros</string>
-			</dict>
-			<key>CEAA7C48-5FE9-4451-BFA5-6C0DF8B4B149</key>
-			<dict>
-				<key>items</key>
-				<array/>
-				<key>name</key>
-				<string>Shoulda::ActionView::Macros</string>
 			</dict>
 		</dict>
 	</dict>
@@ -109,14 +113,17 @@
 		<string>6B75A38F-8974-4D5F-B160-A6B48115234A</string>
 		<string>F1B4B5F0-CB2A-4B3D-BAE4-00304C4E30AC</string>
 		<string>9B06DDE0-0EE6-423C-8376-A6AA26DDA221</string>
-		<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
 		<string>DED4EDE3-B588-4581-ADF4-AF9F5A454A66</string>
 		<string>2C29AF67-2B45-4DED-BAB9-E16DE40B84D9</string>
 		<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
 		<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
+		<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
 		<string>1AA0999C-4EDE-4CB2-84AB-13AF760A9739</string>
 		<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
 		<string>79FD270A-8705-42D2-970F-016199E9E965</string>
+		<string>F33E9993-7ABC-4527-8CF9-FDDC356736E7</string>
+		<string>6AD96C5E-5249-4CF0-A7B1-162365DFC557</string>
+		<string>117977A4-2E95-4847-88CC-30CA2DBA2665</string>
 	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>

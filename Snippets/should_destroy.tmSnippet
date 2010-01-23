@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_db_indices :${1:object_id}${2:, [:${3:commentable_type}, :${4:commentable_id}]}$0</string>
+	<string>should_destroy :${1:class_name}</string>
 	<key>name</key>
-	<string>should_have_db_indices</string>
+	<string>should_destroy</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>meta.rails.functional_test, meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>shdis</string>
+	<string>sd</string>
 	<key>uuid</key>
-	<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
+	<string>117977A4-2E95-4847-88CC-30CA2DBA2665</string>
 </dict>
 </plist>

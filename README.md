@@ -57,6 +57,11 @@ To install without Git:
   * should_validate_uniqueness_of (svuo)
   * should_validate_acceptance_of (svao)
   * should_validate_numericality_of (svno)
+* Shoulda::Macros
+  * should_change (sch)
+  * should_create (scr)
+  * should_destroy (sd)
+  * should_not_change (snch)
 
 # Credits
 
