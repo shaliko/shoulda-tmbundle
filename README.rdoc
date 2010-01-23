@@ -18,7 +18,7 @@ To install without Git:
     mv shaliko-shoulda-tmbundle* "Shoulda.tmbundle"
     
 Or download
-  http://cloud.github.com/downloads/shaliko/shoulda-tmbundle/Shoulda.zip[http://cloud.github.com/downloads/shaliko/shoulda-tmbundle/Shoulda.zip]
+  Shoulda.zip[http://cloud.github.com/downloads/shaliko/shoulda-tmbundle/Shoulda.zip]
 
 ==Snippets
 
