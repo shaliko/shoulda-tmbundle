@@ -1,4 +1,4 @@
-# Shoulda TextMate bundle
+==Shoulda TextMate bundle
 
 The Shoulda[http://github.com/thoughtbot/shoulda] gem makes it easy to write elegant, understandable, and maintainable Ruby tests.
 
@@ -17,7 +17,7 @@ To install without Git:
     rm shaliko-shoulda-tmbundle*.tar.gz
     mv shaliko-shoulda-tmbundle* "Shoulda.tmbundle"
 
-# Snippets
+==Snippets
 
 * Shoulda::ActionController::Macros
   * should_assign_to (sat)
@@ -63,10 +63,10 @@ To install without Git:
   * should_destroy (sd)
   * should_not_change (snch)
 
-# Credits
+==Credits
 
 Shoulda.tmbundle is maintained by {Shalva Usubov}[mailto:shaliko@ezid.ru], and is funded by Hashtrain[http://hashtrain.com], LLC.
 
-# License
+==License
 
 Shoulda.tmbundle is Copyright © 2010 Shalva Usubov, Hashtrain. It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
