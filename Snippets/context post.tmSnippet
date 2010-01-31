@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>context "on POST to :${1:create}" do
+  setup do
+    post :$1, :${2:user} =&gt; { ${3::${4:key} =&gt; ${5:value}${6:, :${7:key} =&gt; ${8:value}}} }
+  end
+
+  ${9:should "${10:description}" do
+    $0
+  end}
+end</string>
+	<key>name</key>
+	<string>context post</string>
+	<key>scope</key>
+	<string>meta.rails.functional_test, meta.rails.unit_test</string>
+	<key>tabTrigger</key>
+	<string>contp</string>
+	<key>uuid</key>
+	<string>2B795070-4F21-4930-A752-EA8512060D58</string>
+</dict>
+</plist>
