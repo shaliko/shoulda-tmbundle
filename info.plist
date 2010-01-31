@@ -6,10 +6,10 @@
 	<dict>
 		<key>items</key>
 		<array>
+			<string>AD36313D-D809-4E07-BCE5-AB17925CD4AA</string>
 			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
 			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
 			<string>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</string>
-			<string>AD36313D-D809-4E07-BCE5-AB17925CD4AA</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -84,10 +84,12 @@
 				<key>items</key>
 				<array>
 					<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
+					<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
+					<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
 					<string>2B795070-4F21-4930-A752-EA8512060D58</string>
 				</array>
 				<key>name</key>
-				<string>Class: Shoulda::Context</string>
+				<string>Class::Shoulda::Context</string>
 			</dict>
 		</dict>
 	</dict>
@@ -140,6 +142,7 @@
 		<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
 		<string>2B795070-4F21-4930-A752-EA8512060D58</string>
 		<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
+		<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
 	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>
