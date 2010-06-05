@@ -83,6 +83,8 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>DA85A069-6B1F-40A4-A123-85259F7C27E3</string>
+					<string>2D00538B-34BA-4FEB-B23C-CE48CF86B73B</string>
 					<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
 					<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
 					<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
@@ -97,6 +99,9 @@
 	<string>Shoulda</string>
 	<key>ordering</key>
 	<array>
+		<string>E2BAC2B0-3460-4107-909B-B0518685C227</string>
+		<string>DA85A069-6B1F-40A4-A123-85259F7C27E3</string>
+		<string>2D00538B-34BA-4FEB-B23C-CE48CF86B73B</string>
 		<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
 		<string>3D6ADA00-8123-460B-B2E7-EE47CFB41145</string>
 		<string>38ABA0D9-944C-4C1E-9489-4F035064A053</string>

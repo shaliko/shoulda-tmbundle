@@ -22,10 +22,13 @@ Or download Shoulda.zip[http://cloud.github.com/downloads/shaliko/shoulda-tmbund
 ==Snippets
 
 * Class::Shoulda::Context
+  * before_should (bs)
   * context (cont)
   * context delete (contd)
   * context get (contg)
   * context post (contp)
+  * should (should)
+  * setup (setup)
 * Shoulda::ActionController::Macros
   * should_assign_to (sat)
   * should_filter_params (sfp)
