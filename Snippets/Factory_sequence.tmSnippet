@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Factory.sequence :${1:name} do |n|
+  $0
+end</string>
+	<key>name</key>
+	<string>Factory.sequence</string>
+	<key>scope</key>
+	<string>meta.rails.functional_test, meta.rails.unit_test</string>
+	<key>tabTrigger</key>
+	<string>facs</string>
+	<key>uuid</key>
+	<string>066D9387-7E35-4A0C-A5CE-C4A48E01840A</string>
+</dict>
+</plist>

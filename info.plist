@@ -10,6 +10,7 @@
 			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
 			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
 			<string>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</string>
+			<string>48C7BAE9-1AF3-4FEB-9175-515F251271DE</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -24,6 +25,13 @@
 				</array>
 				<key>name</key>
 				<string>Shoulda::Macros</string>
+			</dict>
+			<key>48C7BAE9-1AF3-4FEB-9175-515F251271DE</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Factory</string>
 			</dict>
 			<key>65469E83-A35F-4D2E-83E4-A5305190972E</key>
 			<dict>
@@ -83,6 +91,7 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>E2BAC2B0-3460-4107-909B-B0518685C227</string>
 					<string>DA85A069-6B1F-40A4-A123-85259F7C27E3</string>
 					<string>2D00538B-34BA-4FEB-B23C-CE48CF86B73B</string>
 					<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
@@ -148,6 +157,10 @@
 		<string>2B795070-4F21-4930-A752-EA8512060D58</string>
 		<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
 		<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
+		<string>D9B56D0F-8289-4B8B-B41E-417133019A3F</string>
+		<string>9293CE7E-392E-47A8-A3DC-B03E69C71EC9</string>
+		<string>B0DDDACF-D4BD-4BA0-BAD7-08C9B39B2B3A</string>
+		<string>066D9387-7E35-4A0C-A5CE-C4A48E01840A</string>
 	</array>
 	<key>uuid</key>
 	<string>7E52FCE5-B12D-436D-AAFB-5EA830945950</string>
