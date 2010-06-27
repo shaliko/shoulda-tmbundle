@@ -9,7 +9,7 @@ end</string>
 	<key>name</key>
 	<string>Factory.sequence</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test, meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>facs</string>
 	<key>uuid</key>

@@ -29,7 +29,12 @@
 			<key>48C7BAE9-1AF3-4FEB-9175-515F251271DE</key>
 			<dict>
 				<key>items</key>
-				<array/>
+				<array>
+					<string>9293CE7E-392E-47A8-A3DC-B03E69C71EC9</string>
+					<string>D9B56D0F-8289-4B8B-B41E-417133019A3F</string>
+					<string>B0DDDACF-D4BD-4BA0-BAD7-08C9B39B2B3A</string>
+					<string>066D9387-7E35-4A0C-A5CE-C4A48E01840A</string>
+				</array>
 				<key>name</key>
 				<string>Factory</string>
 			</dict>
