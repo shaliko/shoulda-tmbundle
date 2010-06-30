@@ -3,22 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>context "on DELETE to :${1:destroy}" do
-  setup do
-    delete :$1, ${2::${3:id} =&gt; ${4:1}}
-  end
-
-  ${5:should "${6:description}" do
-    $0
-  end}
-end</string>
+	<string>should have_sent_email${1:.with_subject(${2:/spam/})}${3:.from(${4:'do-not-reply@example.com'})}${5:.with_body(${6:/spam/})}${7:.to(${8:'myself@me.com'})}$0</string>
 	<key>name</key>
-	<string>_context delete</string>
+	<string>should_have_sent_email</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test, meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>contd</string>
+	<string>shse</string>
 	<key>uuid</key>
-	<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
+	<string>7366699F-6616-4B8A-9965-8AD55472E9C6</string>
 </dict>
 </plist>

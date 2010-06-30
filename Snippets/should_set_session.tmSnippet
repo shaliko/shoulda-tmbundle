@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_set_session(:${1:user_id}) { ${2:@user.id} }</string>
 	<key>name</key>
-	<string>should_set_session</string>
+	<string>_should_set_session</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

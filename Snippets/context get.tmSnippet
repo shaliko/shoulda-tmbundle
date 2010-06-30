@@ -13,7 +13,7 @@
   end}
 end</string>
 	<key>name</key>
-	<string>context get</string>
+	<string>_context get</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test, meta.rails.unit_test</string>
 	<key>tabTrigger</key>

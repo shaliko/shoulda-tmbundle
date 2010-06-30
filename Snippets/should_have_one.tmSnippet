@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>has_one :${1:object}${2:, :dependent =&gt; :${3:destroy}}$0</string>
 	<key>name</key>
-	<string>should_have_one</string>
+	<string>_should_have_one</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

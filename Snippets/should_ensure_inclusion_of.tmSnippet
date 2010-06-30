@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_ensure_length_is :${1:attribute}, ${2:7}$0</string>
+	<string>should ensure_inclusion_of(:${1:age}).in_range(${2:0..100})$0</string>
 	<key>name</key>
-	<string>should_ensure_length_is</string>
+	<string>should_ensure_inclusion_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>seli</string>
+	<string>sei</string>
 	<key>uuid</key>
-	<string>B7831D1B-DBC8-4149-9517-A6A6E80401B5</string>
+	<string>89E2F4E1-383E-4BAC-847E-2075C4BD36DD</string>
 </dict>
 </plist>

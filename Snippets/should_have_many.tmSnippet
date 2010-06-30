@@ -6,7 +6,7 @@
 	<string>should_have_many :${1:object}s$0
 </string>
 	<key>name</key>
-	<string>should_have_many</string>
+	<string>_should_have_many</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_validate_uniqueness_of :${1:attribute}${2:, :scoped_to =&gt; :${3:attribute}}${4:, :case_sensitive =&gt; ${5:false}}$0</string>
+	<string>should validate_uniqueness_of(:${1:email})${2:.scoped_to(:${4:name})}${3:.case_insensitive}$0</string>
 	<key>name</key>
 	<string>should_validate_uniqueness_of</string>
 	<key>scope</key>

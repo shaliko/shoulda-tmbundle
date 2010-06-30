@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_render_template :${1:template_name}</string>
 	<key>name</key>
-	<string>should_render_template</string>
+	<string>_should_render_template</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

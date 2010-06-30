@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_route :get, "/${1:post}s", :controller =&gt; :${2:${1}s}, :action =&gt; :${3:index}$0</string>
 	<key>name</key>
-	<string>should_route</string>
+	<string>_should_route</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

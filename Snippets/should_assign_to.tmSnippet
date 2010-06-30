@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_assign_to :${1:user}${2:, :class_name =&gt; "${3:${1/[[:alpha:]]+|(_)/(?1::\u$0)/g}}"}</string>
 	<key>name</key>
-	<string>should_assign_to</string>
+	<string>_should_assign_to</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

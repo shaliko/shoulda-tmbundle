@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_render_without_layout</string>
 	<key>name</key>
-	<string>should_render_without_layout</string>
+	<string>_should_render_without_layout</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

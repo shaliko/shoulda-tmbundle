@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Factory(:${1:model})</string>
 	<key>name</key>
-	<string>Factory</string>
+	<string>_Factory</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

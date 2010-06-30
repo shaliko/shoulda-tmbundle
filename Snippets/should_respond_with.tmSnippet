@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_respond_with :${1:success}</string>
 	<key>name</key>
-	<string>should_respond_with</string>
+	<string>_should_respond_with</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

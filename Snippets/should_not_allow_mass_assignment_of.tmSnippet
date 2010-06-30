@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_not_allow_mass_assignment_of :${1:attribute}$0</string>
 	<key>name</key>
-	<string>should_not_allow_mass_assignment_of</string>
+	<string>_should_not_allow_mass_assignment_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

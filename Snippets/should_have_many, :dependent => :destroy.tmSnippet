@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_have_many :${1:object}s, :dependent =&gt; :destroy$0</string>
 	<key>name</key>
-	<string>should_have_many, :dependent =&gt; :destroy</string>
+	<string>_should_have_many, :dependent =&gt; :destroy</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

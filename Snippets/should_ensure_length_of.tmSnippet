@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_db_index :${1:attribute}${2:, :${3:unique =&gt; true}}$0</string>
+	<string>should ensure_length_of(:${1:password})${2:.is_at_least(${4:6})}${3:.is_at_most(${5:20})}</string>
 	<key>name</key>
-	<string>should_have_db_index</string>
+	<string>should_ensure_length_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>shdi</string>
+	<string>sel</string>
 	<key>uuid</key>
-	<string>300F7F02-83C3-483D-BE26-95CA40EEC7AA</string>
+	<string>D1B4CFD7-0D31-479B-A219-4583A7ECA392</string>
 </dict>
 </plist>

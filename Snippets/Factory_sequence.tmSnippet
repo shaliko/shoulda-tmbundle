@@ -7,7 +7,7 @@
   $0
 end</string>
 	<key>name</key>
-	<string>Factory.sequence</string>
+	<string>_Factory.sequence</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

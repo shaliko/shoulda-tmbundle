@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_validate_presence_of :${1:attribute}${2:, :${3:attribute}}$0</string>
+	<string>should validate_presence_of(:${1:name})</string>
 	<key>name</key>
 	<string>should_validate_presence_of</string>
 	<key>scope</key>
