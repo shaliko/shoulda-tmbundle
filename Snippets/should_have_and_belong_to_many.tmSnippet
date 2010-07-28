@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_not_change("${1:description}") { ${2:User.count} }$0</string>
+	<string>should have_and_belong_to_many(:${1:posts})${0}</string>
 	<key>name</key>
-	<string>_should_not_change</string>
+	<string>should_have_and_belong_to_many</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test, meta.rails.unit_test</string>
+	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>snch</string>
+	<string>shbm</string>
 	<key>uuid</key>
-	<string>188BFD00-7FEC-41BF-87A8-9546C59349E1</string>
+	<string>F97EA447-8692-4DCF-9230-5A3E9FF3DCAA</string>
 </dict>
 </plist>

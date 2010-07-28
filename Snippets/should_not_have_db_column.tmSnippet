@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_render_without_layout</string>
+	<string>should_not have_db_column(:${1:admin})${2:.of_type(:${3:boolean})}$0</string>
 	<key>name</key>
-	<string>_should_render_without_layout</string>
+	<string>should_not_have_db_column</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test</string>
+	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>srwl</string>
+	<string>snhdc</string>
 	<key>uuid</key>
-	<string>2C29AF67-2B45-4DED-BAB9-E16DE40B84D9</string>
+	<string>36A2FCF0-A8D1-496A-B878-365D48CBCA1B</string>
 </dict>
 </plist>

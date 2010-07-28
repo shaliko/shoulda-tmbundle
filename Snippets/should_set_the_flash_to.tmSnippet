@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_set_the_flash_to /${1:created}/i</string>
+	<string>should set_the_flash${1:.to(${2:/${3:created}/i})}${0}</string>
 	<key>name</key>
-	<string>_should_set_the_flash_to</string>
+	<string>should_set_the_flash</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>sstft</string>
+	<string>sstf</string>
 	<key>uuid</key>
 	<string>79FD270A-8705-42D2-970F-016199E9E965</string>
 </dict>

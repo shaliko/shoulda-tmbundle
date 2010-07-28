@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_class_methods :${1:method_name}$0</string>
+	<string>should respond_with_content_type(:${1:text|xml})</string>
 	<key>name</key>
-	<string>_should_have_class_methods</string>
+	<string>should_respond_with_content_type</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>shcm</string>
+	<string>srwct</string>
 	<key>uuid</key>
-	<string>3C497708-3789-409B-9139-28C07E1540CF</string>
+	<string>9B8AD537-9E8E-4D6E-9C30-20EF5CD13557</string>
 </dict>
 </plist>

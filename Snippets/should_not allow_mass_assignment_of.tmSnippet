@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_many :${1:object}s, :dependent =&gt; :destroy$0</string>
+	<string>should_not allow_mass_assignment_of(:${1:password})$0</string>
 	<key>name</key>
-	<string>_should_have_many, :dependent =&gt; :destroy</string>
+	<string>should_not allow_mass_assignment_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>
-	<string>shmd</string>
+	<string>snama</string>
 	<key>uuid</key>
-	<string>6A68C05D-4534-46BA-B329-DCFE3436EE95</string>
+	<string>95665418-7957-4C1C-9AFB-1B240C76A363</string>
 </dict>
 </plist>

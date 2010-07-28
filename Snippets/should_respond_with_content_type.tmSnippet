@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_respond_with_content_type :${1:rss}</string>
+	<string>should_not render_with_layout</string>
 	<key>name</key>
-	<string>_should_respond_with_content_type</string>
+	<string>should_not_render_with_layout</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>srwct</string>
+	<string>snrwl</string>
 	<key>uuid</key>
 	<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
 </dict>

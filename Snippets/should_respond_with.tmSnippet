@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_respond_with :${1:success}</string>
+	<string>should respond_with(:${1:success})${0}</string>
 	<key>name</key>
-	<string>_should_respond_with</string>
+	<string>should_respond_with</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_db_columns :${1:id}${2:, :${3:email}, :${4:created_at}}$0</string>
+	<string>should_not set_session(:${1:user_id})${0}</string>
 	<key>name</key>
-	<string>_should_have_db_columns</string>
+	<string>should_not_set_session</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
-	<string>shdcs</string>
+	<string>snss</string>
 	<key>uuid</key>
-	<string>447EBC39-01AE-4B9D-810A-8BC6C32C956B</string>
+	<string>197BE41B-4870-4EE2-B5CF-A4D77D2D5BFD</string>
 </dict>
 </plist>

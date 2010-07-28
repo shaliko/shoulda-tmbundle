@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_not_assign_to :${1:user}</string>
+	<string>should_not assign_to(:${1:user})${0}</string>
 	<key>name</key>
-	<string>_should_not_assign_to</string>
+	<string>should_not_assign_to</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
 	<string>snat</string>
 	<key>uuid</key>
-	<string>6B75A38F-8974-4D5F-B160-A6B48115234A</string>
+	<string>B44BB1A8-E6C0-4D85-831B-14C4A38C7E54</string>
 </dict>
 </plist>
