@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_not set_the_flash</string>
 	<key>name</key>
-	<string>should_not_set_the_flash</string>
+	<string>should_not set_the_flash</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should ensure_length_of(:${1:password})${2:.is_at_least(${4:6})}${3:.is_at_most(${5:20})}</string>
 	<key>name</key>
-	<string>should_ensure_length_of</string>
+	<string>should ensure_length_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

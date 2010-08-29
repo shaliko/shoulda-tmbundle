@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should set_the_flash${1:.to(${2:/${3:created}/i})}${0}</string>
 	<key>name</key>
-	<string>should_set_the_flash</string>
+	<string>should set_the_flash</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

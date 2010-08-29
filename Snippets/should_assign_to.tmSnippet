@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should assign_to(:${1:user})${2:.with_kind_of(${3:User})}$0</string>
 	<key>name</key>
-	<string>should_assign_to</string>
+	<string>should assign_to</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

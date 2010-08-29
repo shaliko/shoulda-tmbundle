@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should filter_param(:${1:password})${0}</string>
 	<key>name</key>
-	<string>should_filter_params</string>
+	<string>should filter_params</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

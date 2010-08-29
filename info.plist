@@ -6,33 +6,13 @@
 	<dict>
 		<key>items</key>
 		<array>
-			<string>AD36313D-D809-4E07-BCE5-AB17925CD4AA</string>
 			<string>65469E83-A35F-4D2E-83E4-A5305190972E</string>
-			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
-			<string>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</string>
-			<string>48C7BAE9-1AF3-4FEB-9175-515F251271DE</string>
-			<string>89E2F4E1-383E-4BAC-847E-2075C4BD36DD</string>
-			<string>D1B4CFD7-0D31-479B-A219-4583A7ECA392</string>
-			<string>8DC3165D-1D4F-47A5-89B1-F3A1AB5A7B0E</string>
 			<string>F0EC06E5-74F6-4B1E-9D96-D084CF9E1E7B</string>
-			<string>95665418-7957-4C1C-9AFB-1B240C76A363</string>
-			<string>389921AA-D4EA-4D25-A31A-9DAC71CC3902</string>
-			<string>F97EA447-8692-4DCF-9230-5A3E9FF3DCAA</string>
-			<string>36A2FCF0-A8D1-496A-B878-365D48CBCA1B</string>
-			<string>B44BB1A8-E6C0-4D85-831B-14C4A38C7E54</string>
-			<string>9B8AD537-9E8E-4D6E-9C30-20EF5CD13557</string>
-			<string>197BE41B-4870-4EE2-B5CF-A4D77D2D5BFD</string>
-			<string>E4A6253B-04F5-4F5F-A425-9F8433671F1F</string>
+			<string>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</string>
+			<string>48C7BAE9-1AF3-4FEB-9175-515F251271DE</string>
 		</array>
 		<key>submenus</key>
 		<dict>
-			<key>0EE41B91-2F74-4E9E-BAFB-60C6FA87CFB5</key>
-			<dict>
-				<key>items</key>
-				<array/>
-				<key>name</key>
-				<string>Shoulda::Macros</string>
-			</dict>
 			<key>48C7BAE9-1AF3-4FEB-9175-515F251271DE</key>
 			<dict>
 				<key>items</key>
@@ -50,53 +30,49 @@
 				<key>items</key>
 				<array>
 					<string>163BF8ED-67C3-449B-9DD6-070F34F48C3A</string>
+					<string>B44BB1A8-E6C0-4D85-831B-14C4A38C7E54</string>
 					<string>C561A58C-5976-4132-BDB6-3AED9CE8F13E</string>
 					<string>9B06DDE0-0EE6-423C-8376-A6AA26DDA221</string>
 					<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
 					<string>DED4EDE3-B588-4581-ADF4-AF9F5A454A66</string>
 					<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
 					<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
+					<string>9B8AD537-9E8E-4D6E-9C30-20EF5CD13557</string>
 					<string>1AA0999C-4EDE-4CB2-84AB-13AF760A9739</string>
 					<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
+					<string>197BE41B-4870-4EE2-B5CF-A4D77D2D5BFD</string>
 					<string>79FD270A-8705-42D2-970F-016199E9E965</string>
+					<string>E4A6253B-04F5-4F5F-A425-9F8433671F1F</string>
 				</array>
 				<key>name</key>
-				<string>Shoulda::ActionController::Macros</string>
+				<string>Shoulda::ActionController::Matchers</string>
 			</dict>
 			<key>8A63A075-52F8-41C8-81C9-AA8ADBED1AD6</key>
 			<dict>
 				<key>items</key>
 				<array>
 					<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
+					<string>95665418-7957-4C1C-9AFB-1B240C76A363</string>
 					<string>3D6ADA00-8123-460B-B2E7-EE47CFB41145</string>
+					<string>389921AA-D4EA-4D25-A31A-9DAC71CC3902</string>
 					<string>38ABA0D9-944C-4C1E-9489-4F035064A053</string>
-					<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
-					<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
 					<string>E567C31A-D329-4652-8A03-39E03B59ABAE</string>
+					<string>BE0C2AE6-2342-4200-8894-C08BF747DFB2</string>
+					<string>F97EA447-8692-4DCF-9230-5A3E9FF3DCAA</string>
+					<string>89E2F4E1-383E-4BAC-847E-2075C4BD36DD</string>
+					<string>D1B4CFD7-0D31-479B-A219-4583A7ECA392</string>
+					<string>A32214D6-06C8-47F5-B97B-0B1D9E07BE97</string>
+					<string>36A2FCF0-A8D1-496A-B878-365D48CBCA1B</string>
+					<string>910CA9A5-453A-443D-A9DC-82AEDE77FA77</string>
 					<string>788BA855-7A3D-4878-94DA-BA419839121F</string>
+					<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
+					<string>8DC3165D-1D4F-47A5-89B1-F3A1AB5A7B0E</string>
+					<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
 					<string>81739409-73DF-4BBA-B3FF-12AA201DB419</string>
 					<string>8107B038-A448-43D3-822D-83D4FC702350</string>
-					<string>A09728D4-9E14-47D0-8229-21C3CA6D79F8</string>
-					<string>2CD35CB7-D1BF-4986-8793-9BDF4220C4C2</string>
-					<string>BE0C2AE6-2342-4200-8894-C08BF747DFB2</string>
 				</array>
 				<key>name</key>
-				<string>Shoulda::ActiveRecord::Macros</string>
-			</dict>
-			<key>AD36313D-D809-4E07-BCE5-AB17925CD4AA</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>E2BAC2B0-3460-4107-909B-B0518685C227</string>
-					<string>DA85A069-6B1F-40A4-A123-85259F7C27E3</string>
-					<string>2D00538B-34BA-4FEB-B23C-CE48CF86B73B</string>
-					<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
-					<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
-					<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
-					<string>2B795070-4F21-4930-A752-EA8512060D58</string>
-				</array>
-				<key>name</key>
-				<string>Class::Shoulda::Context</string>
+				<string>Shoulda::ActiveRecord::Matchers</string>
 			</dict>
 			<key>F0EC06E5-74F6-4B1E-9D96-D084CF9E1E7B</key>
 			<dict>
@@ -105,7 +81,7 @@
 					<string>7366699F-6616-4B8A-9965-8AD55472E9C6</string>
 				</array>
 				<key>name</key>
-				<string>ActionMailer</string>
+				<string>Shoulda::ActionMailer::Matchers</string>
 			</dict>
 		</dict>
 	</dict>
@@ -113,9 +89,6 @@
 	<string>Shoulda</string>
 	<key>ordering</key>
 	<array>
-		<string>E2BAC2B0-3460-4107-909B-B0518685C227</string>
-		<string>DA85A069-6B1F-40A4-A123-85259F7C27E3</string>
-		<string>2D00538B-34BA-4FEB-B23C-CE48CF86B73B</string>
 		<string>3B64325C-1E17-4B97-AA4E-CEFAB4675FD7</string>
 		<string>95665418-7957-4C1C-9AFB-1B240C76A363</string>
 		<string>3D6ADA00-8123-460B-B2E7-EE47CFB41145</string>
@@ -150,10 +123,6 @@
 		<string>197BE41B-4870-4EE2-B5CF-A4D77D2D5BFD</string>
 		<string>79FD270A-8705-42D2-970F-016199E9E965</string>
 		<string>E4A6253B-04F5-4F5F-A425-9F8433671F1F</string>
-		<string>0A6F49C0-FDB8-42AA-8106-5D4A11679DCC</string>
-		<string>2B795070-4F21-4930-A752-EA8512060D58</string>
-		<string>C3C3DDCD-5807-497B-BC03-E590ED587719</string>
-		<string>1E078504-58A1-4486-B6DF-C07F3C0F0B96</string>
 		<string>D9B56D0F-8289-4B8B-B41E-417133019A3F</string>
 		<string>9293CE7E-392E-47A8-A3DC-B03E69C71EC9</string>
 		<string>B0DDDACF-D4BD-4BA0-BAD7-08C9B39B2B3A</string>

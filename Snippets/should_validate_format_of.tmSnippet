@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should validate_format_of(:${1:name})${2:.with(${4:'12345'})}${3:.not_with(${5:'12D45'})}</string>
 	<key>name</key>
-	<string>should_validate_format_of</string>
+	<string>should validate_format_of</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

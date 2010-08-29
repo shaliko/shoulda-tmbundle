@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should have_one(:${1:god})${0}</string>
 	<key>name</key>
-	<string>should_have_one</string>
+	<string>should have_one</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

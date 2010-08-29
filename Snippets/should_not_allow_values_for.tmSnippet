@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_not allow_value(${1:"bad"}).for(:${2:isbn})</string>
 	<key>name</key>
-	<string>should_not_allow_values_for</string>
+	<string>should_not allow_values_for</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

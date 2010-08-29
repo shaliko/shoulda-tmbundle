@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should have_db_column(:${1:salary})${2:.of_type(:${3:decimal})}${4:.with_options(:precision =&gt; ${5:10}, :scale =&gt; ${6:2})}$0</string>
 	<key>name</key>
-	<string>should_have_db_column</string>
+	<string>should have_db_column</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

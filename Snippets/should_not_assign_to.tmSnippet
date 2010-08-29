@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_not assign_to(:${1:user})${0}</string>
 	<key>name</key>
-	<string>should_not_assign_to</string>
+	<string>should_not assign_to</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

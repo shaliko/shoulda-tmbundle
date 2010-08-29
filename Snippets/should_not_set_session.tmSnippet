@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should_not set_session(:${1:user_id})${0}</string>
 	<key>name</key>
-	<string>should_not_set_session</string>
+	<string>should_not set_session</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

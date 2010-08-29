@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should have_many(:${1:friends})${2:.dependent(:${3:destroy})}${4:.through(:${5:friends}})${0}</string>
 	<key>name</key>
-	<string>should_have_many</string>
+	<string>should have_many</string>
 	<key>scope</key>
 	<string>meta.rails.unit_test</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should route(:${1:get}, "${2:/posts/1}").to(:action =&gt; :${3:show}${4:, :id =&gt; ${5:1}})${0}</string>
 	<key>name</key>
-	<string>should_route</string>
+	<string>should route</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>

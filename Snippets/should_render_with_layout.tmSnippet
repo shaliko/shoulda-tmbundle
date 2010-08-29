@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>should render_with_layout${1:(:${2:special})}${0}</string>
 	<key>name</key>
-	<string>should_render_with_layout</string>
+	<string>should render_with_layout</string>
 	<key>scope</key>
 	<string>meta.rails.functional_test</string>
 	<key>tabTrigger</key>
