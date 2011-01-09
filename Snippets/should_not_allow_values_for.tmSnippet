@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should_not allow_values_for</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>snav</string>
 	<key>uuid</key>

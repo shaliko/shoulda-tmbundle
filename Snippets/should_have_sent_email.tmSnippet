@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should have_sent_email</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test, meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>shse</string>
 	<key>uuid</key>

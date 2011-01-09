@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+true<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should ensure_inclusion_of</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>sei</string>
 	<key>uuid</key>

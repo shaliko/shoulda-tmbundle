@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should validate_uniqueness_of</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>svuo</string>
 	<key>uuid</key>

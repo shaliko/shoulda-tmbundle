@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should have_many</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>shm</string>
 	<key>uuid</key>

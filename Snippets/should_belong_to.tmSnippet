@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should belong_to</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>sbt</string>
 	<key>uuid</key>

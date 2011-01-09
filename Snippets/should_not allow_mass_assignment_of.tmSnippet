@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should_not allow_mass_assignment_of</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>snama</string>
 	<key>uuid</key>

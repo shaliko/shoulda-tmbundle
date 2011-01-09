@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should validate_presence_of</string>
 	<key>scope</key>
-	<string>meta.rails.unit_test</string>
+	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
 	<string>svpo</string>
 	<key>uuid</key>
