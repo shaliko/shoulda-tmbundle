@@ -1,3 +1,7 @@
+==Forked Version of https://github.com/shaliko/shoulda-tmbundle
+Changes the scope selector so you can use the snippets in 
+rspec tests
+
 ==Shoulda TextMate bundle
 
 The Shoulda[http://github.com/thoughtbot/shoulda] gem makes it easy to write elegant, understandable, and maintainable Ruby tests.
