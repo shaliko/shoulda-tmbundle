@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should filter_params</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>sfp</string>
 	<key>uuid</key>

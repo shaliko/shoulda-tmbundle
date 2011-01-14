@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should render_template</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>srt</string>
 	<key>uuid</key>

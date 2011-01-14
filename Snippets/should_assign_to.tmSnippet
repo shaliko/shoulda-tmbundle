@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>should assign_to</string>
 	<key>scope</key>
-	<string>meta.rails.functional_test</string>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
 	<string>sat</string>
 	<key>uuid</key>
