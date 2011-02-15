@@ -35,8 +35,8 @@
 					<string>9B06DDE0-0EE6-423C-8376-A6AA26DDA221</string>
 					<string>1D07C240-7D2F-4D86-8178-E79D5C562CF0</string>
 					<string>DED4EDE3-B588-4581-ADF4-AF9F5A454A66</string>
-					<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
 					<string>76C57E2C-FB5D-4F96-86DD-D123034C999E</string>
+					<string>DFD87F10-B227-4BAC-A990-D7B1508B1732</string>
 					<string>9B8AD537-9E8E-4D6E-9C30-20EF5CD13557</string>
 					<string>1AA0999C-4EDE-4CB2-84AB-13AF760A9739</string>
 					<string>A853DD9D-F1D2-4502-9BF5-E48A77AF4EC2</string>
@@ -72,7 +72,7 @@
 					<string>8107B038-A448-43D3-822D-83D4FC702350</string>
 				</array>
 				<key>name</key>
-				<string>Shoulda::ActiveRecord::Matchers</string>
+				<string>Shoulda::Matchers::ActiveRecord</string>
 			</dict>
 			<key>F0EC06E5-74F6-4B1E-9D96-D084CF9E1E7B</key>
 			<dict>

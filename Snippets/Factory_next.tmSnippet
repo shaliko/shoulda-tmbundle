@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>Factory.next(:${1:sequence})</string>
 	<key>name</key>
-	<string>_Factory.next</string>
+	<string>Factory.next</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>

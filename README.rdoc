@@ -60,6 +60,8 @@ To install without Git:
   * should validate_numericality_of (svno)
   * should validate_presence_of (svpo)
   * should validate_uniqueness_of (svuo)
+* Shoulda::Context::FastContext
+  * fast_context (fcontext)
 * Factory
   * Factory (fac)
   * Factory.define (facd)
